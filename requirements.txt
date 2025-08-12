@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+astroid
+tree_sitter
+pydantic
+jinja2
+pytest
+python-multipart
